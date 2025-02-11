@@ -61,14 +61,14 @@
 ##  <div align="center"> Github Streak Stats
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neoslashnet&theme=soft-green)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dgaliata&theme=soft-green)](https://git.io/streak-stats)
 </div>
 <br/>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=neoslashnet&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=dgaliata&&style=flat-square" align="center" />
 </div>  
   
 

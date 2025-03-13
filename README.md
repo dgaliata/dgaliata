@@ -25,29 +25,16 @@
 <br/>  
 
 
-## <div align="center"> My Skill Set  </div>
+## <div align="center"> 💻 Tech Stack  </div>
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-<a href="https://amazon.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730835252/icons8-aws-128_vvnspy.png" alt="AWS" height="50" /></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>     
-<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.sans.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834444/icons8-cybersecurity-68_wq5qo5.png" alt="Cybersecurity" height="50" /></a>
-<a href="https://cloudsecurityalliance.org/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834935/icons8-cloud-security-96_gqe3sv.png" alt="Cloud Security" height="50" /></a> 
-<a href="https://www.nist.gov/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1730834932/icons8-governance-60_sbslpz.png" alt="Governance and Compliance" height="50" /></a>
-<a href="https://www.hashicorp.com/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1731716258/icons8-terraform-100_pwyksi.png" alt="Terraform" height="50" /></a> 
   
 </div>
 <br/>  
 
 
-##  <div align="center"> Connect with me  
+##  <div align="center"> 🌐 Connect with me  
 <div align="center">
 <a href="https://github.com/neoslashnet" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -58,7 +45,7 @@
 </div>    
 <br/>  
 
-##  <div align="center"> Github Streak Stats
+##  <div align="center"> 📊 Github Streak Stats
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dgaliata&theme=one_dark_pro&hide_border=true)<br/>

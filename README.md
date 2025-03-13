@@ -1,4 +1,4 @@
-## <div align="center">Hi, 👋 my name is David Galiata. I’m a Principal Security Engineer 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
+## <div align="center">Hi, 👋 my name is David Galiata. I’m the Director of Security Engineering 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
   
 -  ☁️ I’m currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)  
   
@@ -61,7 +61,8 @@
 ##  <div align="center"> Github Streak Stats
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dgaliata&theme=soft-green)](https://git.io/streak-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=dgaliata&theme=one_dark_pro&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dgaliata&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </div>
 <br/>
 

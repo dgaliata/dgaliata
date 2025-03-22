@@ -12,7 +12,7 @@
 - 🧾 I hold industry wide certifications from ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
 
 
-- 📝 I regularly write articles on my [blog](https://galiata.blog)   
+- 📝 I regularly write articles on my [blog](https://galiata.com/blog)   
   
 
 - ⚡ Fun fact: I grew up playing drums in my dad's rockabilly blues band

@@ -3,7 +3,7 @@
 -  ☁️ I’m currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)  
   
 
-- 🌱 I’m currently learning Python, MLOPS, and DevOps
+- 🌱 I’m currently learning Python, MLOps, and DevOps
  
 
 - 🎓 I have a Master's degree in Cybersecurity from [Central Washington University](https://www.cwu.edu/)

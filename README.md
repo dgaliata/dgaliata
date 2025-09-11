@@ -19,12 +19,6 @@
 
 <br/>
 
-<div align="center"><img align="center" alt="Coding" width="300" src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1708374013/Blog%20Pictures/Hi_I_m_David_Galiata_xuoe3w.gif"> </div>
-  
-
-<br/>  
-
-
 ## <div align="center"> 💻 Tech Stack  </div>
 
 ![cyber](https://img.shields.io/badge/Cybersecurity-%20black?style=for-the-badge&logo=springsecurity&logoColor=%234DED50)

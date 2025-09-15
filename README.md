@@ -1,4 +1,4 @@
-## <div align="center">Hi, 👋 my name is David Galiata. I’m the Director of Security Engineering 👨‍💻 at [Aquia](https://www.aquia.us/) 🚀 </div>  
+## <div align="center">Hi, 👋 my name is David Galiata. I’m the Director of Security Engineering 👨‍💻 at [Aquia](https://www.aquia.us/) </div>  
   
 -  ☁️ I’m currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)  
   

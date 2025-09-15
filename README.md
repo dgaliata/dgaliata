@@ -38,8 +38,6 @@
 
 </div>
 
-<br/>
-
 ##  <div align="center"> 🌐 Connect With Me  
 <div align="center">
 <a href="https://github.com/dgaliata" target="_blank">

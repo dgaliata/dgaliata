@@ -31,7 +31,7 @@
  
 </div>
 <br/>  
-##  <div align="center"> 📊 Github Streak Stats
+<div align="center"> 📊 Github Streak Stats
 <div align="center">
 
 ![](https://nirzak-streak-stats.vercel.app/?user=dgaliata&theme=one_dark_pro&hide_border=true)<br/>

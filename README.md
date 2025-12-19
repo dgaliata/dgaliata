@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on my [blog](https://galiata.com/blog)   
   
 
-- ⚡ Fun fact: I grew up playing drums in my dad's rockabilly blues band
+- ⚡ Fun fact: I am a Mexican food afficionado
 
 <br/>
 

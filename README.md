@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on my [blog](https://galiata.com/blog)   
   
 
-- ⚡ Fun fact: I am a Mexican food afficionado
+- ⚡ Fun fact: I am a Mexican food aficionado
 
 <br/>
 

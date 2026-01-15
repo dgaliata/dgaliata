@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on my [blog](https://galiata.com/blog)   
   
 
-- ⚡ Fun fact: I am a Mexican food aficionado
+- ⚡ Fun fact: My favorite band is Beach House
 
 <br/>
 

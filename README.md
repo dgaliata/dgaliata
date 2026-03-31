@@ -33,8 +33,7 @@
 
 <div align="center"> 
 
-![](https://nirzak-streak-stats.vercel.app/?user=dgaliata&theme=one_dark_pro&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dgaliata&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dgaliata&theme=one-dark-pro&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
 

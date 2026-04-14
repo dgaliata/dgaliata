@@ -18,7 +18,7 @@
 - ⚡ Fun fact: My favorite band is Beach House
 <br/>
 
-## <div align="center"> 💻 Tech Stack  </div>
+## <div align="center"> 💻 🥞 Tech Stack  </div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1776148297/icons8-microsoft-defender-2025-48_txle2t.png" height="40" alt="cybersecurity logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1776147836/icons8-cloud-firewall-48_ulbjaw.png" height="40" alt="cloud cyber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />

@@ -61,13 +61,6 @@
 </div>
 <br/>
  
-## <div align="center"> 📊 Github Streak Stats </div>
-
-<div align="center"> 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dgaliata&theme=one-dark-pro&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
-</div>
 
 ##  <div align="center"> 🌐 Connect With Me  
 <div align="center">

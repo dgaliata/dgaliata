@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1777486591/Blog%20Pictures/icons8-powershell-48_lc8ms0.png" height="40" alt="cloud cyber logo"  />
-  <img width="12" />
   <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1776151376/icons8-claude-48_mfex8d.png" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -60,7 +58,6 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 </div>
 <br/>
- 
 
 ##  <div align="center"> 🌐 Connect With Me  
 <div align="center">

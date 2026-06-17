@@ -43,10 +43,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1776148334/icons8-github-48_fgf4jw.png" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
   <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1777486726/Blog%20Pictures/icons8-circleci-56_vgykwu.png" height="40" alt="circleci logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />

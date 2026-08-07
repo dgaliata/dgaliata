@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on my [blog](https://galiata.com/blog)   
   
 
-- ⚡ Fun fact: My favorite band is Beach House
+- ⚡ Fun fact: I'm a huge 49'ers fan and soccer fanatic.
 <br/>
 
 ## <div align="center"> 💻 🥞 Tech Stack  </div>

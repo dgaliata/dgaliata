@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
 </p>
 
 <h3 align="center">🤖 AI Engineering</h3>
@@ -39,9 +38,25 @@
   <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter" />
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
-  <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=for-the-badge&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=for-the-badge&logoColor=white" alt="Agentic AI" />
   <img src="https://img.shields.io/badge/Guardrails_AI-FF4B4B?style=for-the-badge&logoColor=white" alt="Guardrails AI" />
+</p>
+
+<h3 align="center">🛡️ Security &amp; Compliance</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Snyk-4C44CE?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Nessus-00C8C8?style=for-the-badge&logoColor=white" alt="Tenable / Nessus" />
+  <img src="https://img.shields.io/badge/Wiz-1A73E8?style=for-the-badge&logoColor=white" alt="Wiz" />
+  <img src="https://img.shields.io/badge/Semgrep-0B6E4F?style=for-the-badge&logo=semgrep&logoColor=white" alt="Semgrep" />
+  <img src="https://img.shields.io/badge/GitLeaks-F4B400?style=for-the-badge&logoColor=black" alt="GitLeaks" />
+  <img src="https://img.shields.io/badge/Checkov-425CC7?style=for-the-badge&logoColor=white" alt="Checkov" />
+  <img src="https://img.shields.io/badge/Prowler-072248?style=for-the-badge&logoColor=white" alt="Prowler" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/CIS_Benchmarks-8B0000?style=for-the-badge&logoColor=white" alt="CIS Benchmarks" />
 </p>
 
 <br/>

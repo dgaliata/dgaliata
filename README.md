@@ -1,68 +1,66 @@
-## <div align="center">Hi, 👋 my name is David Galiata. I’m the Director of Security Engineering 👨‍💻 at [Aquia](https://www.aquia.us/) </div>  
-  
--  ☁️ I’m currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)  
-  
+<h1 align="center">Hi, 👋 my name is David Galiata. I'm the Director of Security Engineering 👨‍💻 at <a href="https://www.aquia.us/">Aquia</a></h1>
 
-- 🌱 I’m currently learning Python, MLOps, and DevOps
- 
+- ☁️ I'm currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)
+
+- 🌱 I'm currently learning Python, MLOps, and DevOps
 
 - 🎓 I have a Master's degree in Cybersecurity from [Central Washington University](https://www.cwu.edu/)
-  
 
 - 🧾 I hold industry wide certifications from ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
 
-
-- 📝 I regularly write articles on my [blog](https://galiata.com/blog)   
-  
+- 📝 I regularly write articles on my [blog](https://galiata.com/blog)
 
 - ⚡ Fun fact: I'm a huge 49'ers fan and soccer fanatic.
+
 <br/>
 
-## <div align="center"> 💻 🥞 Tech Stack  </div>
+<h2 align="center">💻 🥞 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1776151118/icons8-shield-100_suwvhb.png" height="40" alt="cloud cyber logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1776151376/icons8-claude-48_mfex8d.png" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1777486726/Blog%20Pictures/icons8-circleci-56_vgykwu.png" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-
+<img src="https://skillicons.dev/icons?i=aws,python,git,fastapi,linux,docker,kubernetes,terraform,github,gitlab,nodejs,postgres,&perline=12" alt="Development and automation technologies" />
 </div>
+
+<h3 align="center" style="margin-top: -15px;">♾️ DevOps Ecosystem</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD" />
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+</p>
+
+<h3 align="center">🤖 AI Engineering</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenRouter-6467F2?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Agentic_AI-6E56CF?style=for-the-badge&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white" alt="Langfuse" />
+  <img src="https://img.shields.io/badge/Guardrails_AI-FF4B4B?style=for-the-badge&logoColor=white" alt="Guardrails AI" />
+</p>
+
 <br/>
 
-##  <div align="center"> 🌐 Connect With Me  
+<h2 align="center">🌐 Connect With Me</h2>
+
 <div align="center">
 <a href="https://github.com/dgaliata" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/dgaliata" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-</div>    
+</div>
+
 <br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dgaliata&&style=flat-square" align="center" />
-</div>  
-<br/>  
+</div>
+
+<br/>

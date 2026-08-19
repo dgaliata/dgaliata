@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Guardrails_AI-FF4B4B?style=for-the-badge&logoColor=white" alt="Guardrails AI" />
 </p>
 
-<h3 align="center">🛡️ Security &amp; Compliance</h3>
+<h3 align="center">🔐 Security &amp; Compliance</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />

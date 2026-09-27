@@ -17,7 +17,7 @@
 <h2 align="center">💻 🥞 Tech Stack</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=aws,python,git,fastapi,linux,docker,kubernetes,terraform,github,gitlab,nodejs,postgres,&perline=12" alt="Development and automation technologies" />
+<img src="https://skillicons.dev/icons?i=aws,python,git,fastapi,linux,docker,kubernetes,terraform,github,gitlab,postgres,&perline=12" alt="Development and automation technologies" />
 </div>
 
 <br/>

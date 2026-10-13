@@ -2,7 +2,7 @@
 
 - ☁️ I'm currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)
 
-- 🌱 I'm currently learning Python, MLOps, and DevOps
+- 🌱 I'm currently learning AI Security
 
 - 🎓 I have a Master's degree in Cybersecurity from [Central Washington University](https://www.cwu.edu/)
 
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on my [blog](https://galiata.com/blog)
 
-- ⚡ Fun fact: I'm a huge 49'ers fan and soccer fanatic.
+- ⚡ Fun fact: I'm a huge 49'ers fan and soccer fanatic
 
 <br/>
 

@@ -33,10 +33,3 @@
 </a>
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dgaliata&&style=flat-square" align="center" />
-</div>
-
-<br/>

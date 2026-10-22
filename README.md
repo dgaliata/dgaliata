@@ -20,6 +20,14 @@
 <img src="https://skillicons.dev/icons?i=aws,python,git,fastapi,linux,docker,kubernetes,terraform,github,gitlab,postgres,&perline=12" alt="Development and automation technologies" />
 </div>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dgaliata&theme=github_dark&hide_border=false" alt="David's GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dgaliata&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="David's top languages" />
+</div>
+
 <br/>
 
 <h2 align="center">🌐 Connect With Me</h2>

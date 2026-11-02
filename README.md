@@ -1,43 +1,37 @@
-<h1 align="center">Hi, 👋 my name is David Galiata. I'm the Director of Security Engineering 👨‍💻 at <a href="https://www.aquia.us/">Aquia</a></h1>
+<h1 align="center">Hi, I'm David Galiata 👋</h1>
 
-- ☁️ I'm currently working on an [AI/ML Program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Director+of+Security+Engineering+%40+Aquia;Securing+cloud+and+AI+systems;Building+security+that+accelerates+innovation" alt="Typing headline" />
+</p>
 
-- 🌱 I'm currently learning AI Security
+<p align="center">
+  <a href="https://github.com/dgaliata"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://linkedin.com/in/dgaliata"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.galiata.com/"><img src="https://img.shields.io/badge/galiata.com-%23FF5722.svg?&style=for-the-badge&logo=rss&logoColor=white" alt="website" /></a>
+</p>
 
-- 🎓 I have a Master's degree in Cybersecurity from [Central Washington University](https://www.cwu.edu/)
+### 🧑‍💻 About me
 
-- 🧾 I hold industry wide certifications from ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
+I lead security engineering at [Aquia](https://www.aquia.us/), where I'm currently securing an [AI/ML program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms). Lately I'm focused on AI security: how to build, test, and defend ML systems in the real world.
 
-- 📝 I regularly write articles on my [blog](https://galiata.com/blog)
+- 🔭 **Working on:** AI/ML platform security, cloud security architecture
+- 🌱 **Learning:** AI security
+- 🎓 **Education:** M.S. in Cybersecurity, [Central Washington University](https://www.cwu.edu/)
+- 🧾 **Certifications:** ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
+- 📝 **Writing:** security articles on my [blog](https://www.galiata.com/blog/)
+- ⚡ **Off the clock:** huge 49ers fan and soccer fanatic
 
-- ⚡ Fun fact: I'm a huge 49'ers fan and soccer fanatic
+### 💻🥞 Tech stack
 
-<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,kubernetes,terraform,linux,postgres,git,github,gitlab&perline=11" alt="Tech stack" />
+</p>
 
-<h2 align="center">💻 🥞 Tech Stack</h2>
+### ✍️ Latest from the blog
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,python,git,fastapi,linux,docker,kubernetes,terraform,github,gitlab,postgres,&perline=12" alt="Development and automation technologies" />
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=dgaliata&theme=github_dark&hide_border=false" alt="David's GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dgaliata&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="David's top languages" />
-</div>
-
-<br/>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-<a href="https://github.com/dgaliata" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dgaliata" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-</div>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dgaliata&theme=github_dark&hide_border=true" alt="GitHub streak" />
+</p>

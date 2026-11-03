@@ -27,33 +27,6 @@ I lead security engineering at [Aquia](https://www.aquia.us/), where I'm current
   <img src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,kubernetes,terraform,linux,postgres,git,github,gitlab&perline=11" alt="Tech stack" />
 </p>
 
-### ✍️ Featured writing
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧭 <a href="https://www.galiata.com/blog/ai-approach/">My Approach to AI in 2026</a></h4>
-      How I'm approaching AI this year and beyond.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI-Strategy-8A2BE2?style=flat-square" alt="AI Strategy" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛡️ <a href="https://www.galiata.com/blog/ai-integration/">A Scoping Framework for AI Security</a></h4>
-      A security framework for AI integration, from consumer apps to custom models.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/AI-Security-D73A49?style=flat-square" alt="AI Security" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤝 <a href="https://www.galiata.com/blog/collaboration-communication-culture/">Collaboration, Communication, and Culture</a></h4>
-      How trust and shared ownership turn security into an organizational culture.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Security-Leadership-2EA44F?style=flat-square" alt="Security Leadership" />
-    </td>
-  </tr>
-</table>
-
-<p align="right"><sub><a href="https://www.galiata.com/blog/">More on my blog →</a></sub></p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dgaliata&theme=github_dark&hide_border=true" alt="GitHub streak" />
 </p>

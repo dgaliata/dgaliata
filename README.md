@@ -12,10 +12,10 @@
 
 ### 🧑‍💻 About me
 
-I lead security engineering at [Aquia](https://www.aquia.us/), where I'm currently securing an [AI/ML program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms). Lately I'm focused on AI security: how to build, test, and defend ML systems in the real world.
+I lead security engineering at [Aquia](https://www.aquia.us/), where I'm securing an [AI/ML program within the US Government](https://www.aquia.us/aquia-inc-announces-support-of-24-million-ai-and-ml-contract-with-cms). My focus is AI security: how to build, test, and defend ML systems in the real world.
 
-- 🔭 **Working on:** AI/ML platform security, cloud security architecture
-- 🌱 **Learning:** AI security
+- 🔭 **Working on:** AI/ML platform security and cloud security architecture
+- 🌱 **Learning:** AI security, from adversarial ML to securing LLM-powered systems
 - 🎓 **Education:** M.S. in Cybersecurity, [Central Washington University](https://www.cwu.edu/)
 - 🧾 **Certifications:** ISC2, ISACA, AWS, Microsoft, CSA, and CompTIA
 - 📝 **Writing:** security articles on my [blog](https://www.galiata.com/blog/)

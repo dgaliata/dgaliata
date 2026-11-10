@@ -21,12 +21,6 @@ I lead security engineering at [Aquia](https://www.aquia.us/), where I'm current
 - 📝 **Writing:** security articles on my [blog](https://www.galiata.com/blog/)
 - ⚡ **Off the clock:** huge 49ers fan and soccer fanatic
 
-### 💻🥞 Tech stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,python,fastapi,docker,kubernetes,terraform,linux,postgres,git,github,gitlab&perline=11" alt="Tech stack" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dgaliata&theme=github_dark&hide_border=true" alt="GitHub streak" />
 </p>
